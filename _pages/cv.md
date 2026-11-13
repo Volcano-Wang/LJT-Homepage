@@ -34,14 +34,12 @@ Education
 * B.Eng. (2020-2024)
   * Shanghai Jiao Tong University
   * Graduated in June 2024
-  * Zhiyuan Honor Scholarship
 
 Research experience
 ======
 
 * February 2025 - Present: Research Intern
   * MINIMAX
-  * Supervisor: MINIMAX
 
 * June 2024 - September 2024: Research Intern
   * Tencent WXG
