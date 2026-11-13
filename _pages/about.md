@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://nlp.hkust.net/) at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Junxian He](https://junxianhe.github.io/), who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from Shanghai Jiao Tong University in June 2024.
+I am a first-year PhD candidate at the HKUST NLP Group at the Hong Kong University of Science and Technology (HKUST), supervised by Prof. Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from Shanghai Jiao Tong University in June 2024.
 
 My research focuses on natural language processing and machine learning. My research interests include:
 
@@ -19,16 +19,14 @@ My research focuses on natural language processing and machine learning. My rese
 
 *You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).*
 
-**Conference Papers**
-
 - **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**
-  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He (2025). Published on [Arxiv](https://arxiv.org/). First author. Code available on [GitHub](https://github.com/).
+  **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He (2025). Published on Arxiv. First author. Code available on GitHub.
 
 - **On the Perception Bottleneck of VLMs for Chart Understanding**
-  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He (2025). Published on [Arxiv](https://arxiv.org/). First author. Code available on GitHub: [Vision4Chart](https://github.com/).
+  **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He (2025). Published on Arxiv. First author. Code available on GitHub: Vision4Chart.
 
 - **On the Universal Truthfulness Hyperplane Inside LLMs**
-  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He (2024). Published at *EMNLP 2024*. First author. Code available on GitHub: [Universal_Truthfulness_Hyperplane](https://github.com/).
+  **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He (2024). Published at *EMNLP 2024*. First author. Code available on GitHub: Universal_Truthfulness_Hyperplane.
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**
   Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He (2024). Published at *ICML 2024*.
